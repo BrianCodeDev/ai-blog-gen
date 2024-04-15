@@ -14,12 +14,21 @@ body {
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 h1 {
     color: #333;
+    text-align: left;
 }
 
 p {
     color: #666;
+    text-align: left;
+
+}
+.navbar .container-fluid .navbar-brand {
+    font-size: 20px;
+    color: white;
+    font-weight: 800;
 }
